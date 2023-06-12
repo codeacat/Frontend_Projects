@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](../)
 
-screenshot, feel free to remove this entire section.**
-
 ### Built with
 
 - Semantic HTML5 markup
